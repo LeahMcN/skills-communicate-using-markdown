@@ -6,3 +6,8 @@
 ###### H6
 
 ![Image of Kimonotocat](https://octodex.github.com/images/kimonotocat.png)
+
+
+``` javascript
+var myVar = "Adding code to learn the basics of markdown.";
+```
